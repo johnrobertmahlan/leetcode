@@ -1,0 +1,5 @@
+This is not actually a Leetcode problem that I'm working on.
+
+I'm reading Jeremy Kubica's book Data Structures the Fun Way, and in the first chapter of that book, he presents insertion sort as an algorithm that highlights the power of arrays as a data structure.
+
+Since Kubica presents all algorithms in pseudocode rather than a real coding language, and since he uses iteration rather than recursion, I decided to try implementing insertion sort.
