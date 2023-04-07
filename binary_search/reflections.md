@@ -17,5 +17,3 @@ What is the time complexity of binary search? The answer is O(log *n*). To see t
 # Thoughts on My Implementation of Binary Search
 
 After submitting the code in `solution.rb` on Leetcode, I discovered that my code had a runtime of 94ms. At time of writing, this beat 86.69% of all submissions on Leetcode for binary search. My code also took up 213.9 MB of memory. At time of writing, this beat just 38.39% of all submissions on Leetcode for binary search. I know that my code could be improved in terms of memory allocation, but I am happy with its runtime, and suspect that many of the solutions that did better in terms of memory allocation did worse in terms of runtime.
-
-What I would like to do here, though, is compare my solution with the version of binary search implemented in Python in Al Sweigart's book *The Recursive Book of Recursion*.
